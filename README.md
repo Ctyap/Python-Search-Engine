@@ -8,3 +8,5 @@ To use the search engine:
 4. Input the query you want to search for.
 5. Relevant URLs to the users search query will appear in the console box after pressing ‘Enter’.
 6. Input ‘q’ or ‘quit’ to exit the search.
+
+![SearchEngine](https://user-images.githubusercontent.com/57119282/155824504-91e5fa19-2337-47cf-9483-d92fcc26f2d7.jpg)
