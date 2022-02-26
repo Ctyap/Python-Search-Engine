@@ -8,3 +8,5 @@ To use the search engine:
 4. Input the query you want to search for.
 5. Relevant URLs to the users search query will appear in the console box after pressing ‘Enter’.
 6. Input ‘q’ or ‘quit’ to exit the search.
+7. 
+[UCI_InformationRetrieval-S21.pdf](https://github.com/Ctyap/Python-Search-Engine/files/8145813/UCI_InformationRetrieval-S21.pdf)
